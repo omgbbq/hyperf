@@ -1,7 +1,9 @@
 [English](./README.md) | 中文
 
 <p align="center"><a href="https://hyperf.io" target="_blank" rel="noopener noreferrer"><img width="70" src="https://cdn.jsdelivr.net/gh/hyperf/hyperf/docs/logo.png" alt="Hyperf Logo"></a></p>
-
+<video id="video" controls="" preload="none" poster="https://xzy-1303208826.cos.ap-guangzhou.myqcloud.com/material/a/66/img/1646882835155_368x640.png">
+  <source id="mp4" src="https://xzy-1303208826.cos.ap-guangzhou.myqcloud.com/material/a/66/1646882833661_368x640.mp4" type="video/mp4">
+</video>
 <p align="center">
   <a href="https://github.com/hyperf/hyperf/releases"><img src="https://poser.pugx.org/hyperf/hyperf/v/stable" alt="Stable Version"></a>
   <a href="https://travis-ci.org/hyperf/hyperf"><img src="https://travis-ci.org/hyperf/hyperf.svg?branch=master" alt="Build Status"></a>
@@ -89,6 +91,3 @@ Transfer/sec:     18.83MB
 
 Hyperf 是一个基于 [MIT 协议](https://github.com/hyperf/hyperf/blob/master/LICENSE) 开源的软件。
 
-<video id="video" controls="" preload="none" poster="https://xzy-1303208826.cos.ap-guangzhou.myqcloud.com/material/a/66/img/1646882835155_368x640.png">
-  <source id="mp4" src="https://xzy-1303208826.cos.ap-guangzhou.myqcloud.com/material/a/66/1646882833661_368x640.mp4" type="video/mp4">
-</video>
